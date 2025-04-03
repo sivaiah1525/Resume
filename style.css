@@ -34,9 +34,10 @@ body {
 }
 
 .sidebar h3 {
-    border-bottom: 1px solid #f4f4f4;
-    padding-bottom: 5px;
-    margin-top: 20px;
+   background-color: blue;
+   padding: 5px;
+   border-radius: 5px;
+   text-align: center;
 }
 .sidebar h2 {
    color: white !important;
@@ -86,3 +87,8 @@ h2 {
     font-size: 14px;
     color: #444;
 }
+.material-icons {
+    font-size: 36px; /* You can adjust the size */
+    position: relative;
+    top: 6px;
+  }
