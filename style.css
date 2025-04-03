@@ -7,14 +7,14 @@ body {
 
 .resume-container {
     display: flex;
-    max-width: 930px;
+    max-width: 1000px;
     margin: 20px auto;
     background: white;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
 }
 
 .sidebar {
-    width: 35%;
+    width: 40%;
     background-color: #1a1a2e;
     color: white;
     padding: 20px;
