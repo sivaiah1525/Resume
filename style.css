@@ -38,6 +38,9 @@ body {
     padding-bottom: 5px;
     margin-top: 20px;
 }
+.sidebar h2 {
+   color: white !important;
+}
 
 .sidebar ul {
     list-style-type: none;
