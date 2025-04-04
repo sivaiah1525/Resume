@@ -87,8 +87,15 @@ h2 {
     font-size: 14px;
     color: #444;
 }
-.material-icons {
+.sideicons {
     font-size: 36px; /* You can adjust the size */
     position: relative;
     top: 6px;
+  }
+
+  .bodyicons{
+    font-size: 36px; /* You can adjust the size */
+    position: relative;
+    top: 3px;
+    right: 3px;
   }
